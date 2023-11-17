@@ -213,9 +213,3 @@ footer {visibility:hidden;}
 header {visibility:hidden;}
 </style>
 """
-
-
-
-
-
-
