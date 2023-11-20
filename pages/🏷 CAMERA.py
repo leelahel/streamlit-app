@@ -87,6 +87,24 @@ if uploaded_file is not None or cam is not None:
             image_url = save_image_to_gcs_and_mysql(cam, bucket_name, blob_name, target_size=target_size)
             st.success(f'이미지가 성공적으로 저장되었습니다! GCS와 MySQL에 파일 정보가 저장되었습니다. Image URL: {image_url}')
 
-# MySQL 연결 종료
-cursor.close()
-conn.close()
+st.write('버튼을 눌러 추천하는 옷을 크게 확인해 보세요!.')
+
+# 똑같은 크기의 버튼 4개를 가로로 만들기
+col1, col2, col3, col4 = st.columns(4)
+
+# 각 버튼에 대한 동작 설정
+if col1.button("버튼 1"):
+    # 버튼 1이 클릭되었을 때 수행할 동작
+    st.write("버튼 1이 클릭되었습니다!")
+
+if col2.button("버튼 2"):
+    # 버튼 2이 클릭되었을 때 수행할 동작
+    st.write("버튼 2가 클릭되었습니다!")
+
+if col3.button("버튼 3"):
+    # 버튼 3이 클릭되었을 때 수행할 동작
+    st.write("버튼 3이 클릭되었습니다!")
+
+if col4.button("버튼 4"):
+    # 버튼 4이 클릭되었을 때 수행할 동작
+    st.write("버튼 4가 클릭되었습니다!")
