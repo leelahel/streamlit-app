@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "formidable-pact-405301",
+  "private_key_id": "da7de3cda556d0c8b109be9d6d82cd33fc119db6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC+v0SwoY25bVNG\nIJrgtx+coVyGvV7K26POiKgrjGHrKB3+/aqZk+ORb0a70jEBtcDZfZY6cnML57Xh\n56O8VyH6tfnFBBvw7/gEZ+EdP4usPjfaw1a2yvIJ/XqaW8ZjAGatxj3+S+HBOzpd\nvTQPlfUJezNs1dApD/0BV5kyiyEBB9do4vjppRKOboMK6YM++CHnpQJXYJa7KFg4\nCfn1rTCJrkSLeDY+i+TYiY96azir9eWRhW87d9m15b3kWc5QzNYFfaZ+m1KMnybK\nMx00QV3tfEtpeeodjfak0aLQVA/rsD0ypYpIWJUa+AK3NGvumo05PNvmx6OKXe1m\nQOwkw1NRAgMBAAECggEAF8C3rAsiG+IaSZRL1QnYvOd3Hyw7vqUlO9XWoz2i/+aJ\n/bPW57L71qN1unPNOHpKnoq+B18zJltfUddHk2+CQrcgeEEvvYwUZXAOH1dHbFZ/\nHBXRGYgiJc5T0x70kGV/Y8pY8+69GRPoC75A2mQBFIIsADSL7GEaT216HUon/Pmm\n5XYf5oRI04uq5BjcEzBdH9CDeJGSB56P4A41QI2PfjA1Z/z6s5/iBCd4eE/2bImz\n92Ab1rI92h7+43T9qu2wIO7totTojImz/VMLFeTn0wn2OYM6MejsrlZY4TQpv5OV\ntEdl151dNDJKbmvdettztSo3A2PQ6vjJHSDlDKIPQQKBgQDoYbcDIGK9xz2LorJu\napYhKmK2jzGVw87ZH0O804PPZa4rfqQ0cBuVvj5HwSjAYE1p81TIF5IZc4exksDN\nHBfLXAk0BaznvCCNJY+KuJbjK8HHt7+oeKD74U5sp7LOTX+9Cq400ntts+OnCyCZ\n9XqUr6AMbd7xh0I2H1FlUHmjOQKBgQDSIkYMKc5htRN3Vgd1UXerOP0ObBVzbLZ1\nMj4+7dAqWO3Ch2+zHWAaRtKFvxSmA/H+zKUOMUoVEaAMLddUliCSX/TKP+LMg5IQ\nR1ju5bFDlLifwR2MLAbnJmrMxiF+Ov28u72sojZ3YBGb/K+JnT+CkmXw5HI8yz/5\nt/z6cA+42QKBgCja1RQlo3Z+CuH7zqb+8joOe6Bg+HS+IiWmC4CtJyVVWROohjH5\n67+d3NE8sm9v/uw7rZIoIrV6zEZ56I+m+r/0BGIzBT0QpCBslBntbgmubbkxIu75\nlkPyTplnulXu5iBUOmBrCOw2jjWWDTtEHzL41YiZ4HJSN1/QjbzkMx5xAoGAKs0q\nYW3eiM5eUa9nQ4E9k9W+zcI8OE+LdqGuRhkgjo+glkAKA3zXR2LnnLCIHyysjQ7Y\nC+UERvhZFkH8G1Gc/tOmw89xfeDKzqAJwFdu3OodFQU75IJPQaP0mxM8XT7c0iWX\ng+NinrwluhUlGC28cvco5oFRt4pa1J2iXMyYlzkCgYEA5fNxc8va/WfMdzAE/TX0\nEyK5hhcTgvN8H9m0grF/cDemDKeDmvWj43dfP2y1lQm2k+evuXVkCGWQ8GnVdBRY\ncwvSWG3kLITHCU1qbCt49BIfjMdhTBMCExmavhy2kVTFp5sWlAnGCElh5Encp9A7\nIoCHiRC5lK59DmJv6PQ2d84=\n-----END PRIVATE KEY-----\n",
+  "client_email": "streamlit-test@formidable-pact-405301.iam.gserviceaccount.com",
+  "client_id": "107518139742334520525",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/streamlit-test%40formidable-pact-405301.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
